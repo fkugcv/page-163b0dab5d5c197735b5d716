@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.hydzr.cn/sitemap.xml
